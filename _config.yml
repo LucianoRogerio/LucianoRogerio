@@ -84,10 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Ithaca - NY, US"
-  employer         : ""
+  employer         : "Cornell University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "lucianorogerio@gmail.com / lbd54@cornell.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=mIXNTJkAAAAJ&hl=en&oi=ao"
+  email            : "lucianorogerio@gmail.com"
+  email            : "lbd54@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/luciano-rog%C3%A9rio-braatz-de-andrade-6b234673/"
   orcid            : "http://orcid.org/0000-0003-4752-1164"
   pinterest        :
   soundcloud       :
