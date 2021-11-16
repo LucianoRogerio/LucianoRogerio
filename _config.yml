@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Luciano Rogerio Braatz de Andrade"
-  avatar           : "images/profile.png"
+  avatar           : "/images/LucianoProfile.png"
   bio              : "Post doctoral associate"
   location         : "Ithaca - NY, US"
   employer         : "Cornell University"
