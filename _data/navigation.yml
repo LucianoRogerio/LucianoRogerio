@@ -12,5 +12,5 @@ main:
   - title: "CV"
     url: /files/CVAcademicLuciano.pdf
 
-#  - title: "Travels"
-#    url: /travels/
+  - title: "Travels"
+    url: /travels/
