@@ -14,7 +14,4 @@ At IMEGEM, I was responsible to perform visual mass selection in segregating pop
 
 I moved to Viçosa - MG, to pursuit my dream of becoming a classical plant breeder, and also to start my Master in plant breeding. Federal University of Viçosa gave me several opportunities of study, international contacts, and friendships, which I embraced as much as I could. In one of this opportunities I moved to Piracicaba to work with Professor [Roberto Fritsche-Neto](https://www.irri.org/about-us/our-people/roberto-fritsche-neto) at the maize breeding of the Luiz de Queiroz College of Agriculture of the University of São Paulo.
 
-<p align="center">
-<img src="images/AllogamousGoldTeam.jpeg"
-     alt="Allogamous Gold Team"
-     style="float: left; margin-right: 10px;" /p>
+![Allogamous Gold Team](images/AllogamousGoldTeam.jpeg)
