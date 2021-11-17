@@ -16,7 +16,7 @@ I am a Post-Doctoral Associate at Cornell University, US. I assist the [Next Gen
 I got work experience with autogamous, alogamous and vegetative propagation crops, including maize, cassava, common beans, oat, rye, and triticale. This experience trains my mind and test breeding strategies and technology adoption/adaption with the goal of increasing the rate of genetic gain, as genomic prediction, UAV phenotyping, and NIRS prediction.
 
 
-Career Jorney
+Career Journey
 =============
 
 ###Under Graduation - Agronomy
@@ -35,6 +35,9 @@ I moved to Viçosa - MG, to pursuit my dream of becoming a classical plant breed
 
 My PhD started with a call from Professor [Fabyano Fonseca e Silva](https://scholar.google.com/citations?hl=en&user=m6Hpm9MAAAAJ&view_op=list_works&sortby=pubdate) of Federal University of Viçosa. Professor Fabyano recommended me for an EMBRAPA Cassava Ph.D fellowship to work on genomic selection in Cassava. That was my first contact with my future advisors the [Professor Marcos Deon](https://scholar.google.com/citations?hl=en&user=EUtQSmoAAAAJ&view_op=list_works&sortby=pubdate) and the [Cassava Breeder Eder Jorge de Oliveira](https://scholar.google.com.br/citations?hl=pt-BR&user=qbtp4pMAAAAJ&view_op=list_works&sortby=pubdate).  
 During my PhD, I gained proficiency in genomic prediction, quantitative and population genetics, linear models, mixed models, biometric statistics, high throughput phenotyping, images analysis, and NIRS prediction. I am extremely proficient in the R statistical language. I assisted the Cassava Breeder Eder Jorge de Oliveira to carry on a segregating population with genomic selection for three breeding cycles. I was responsible for conducting field trails and individual selection, and tissue collection for genotyping. This work resulted in [eight publications](https://lucianorogerio.github.io/publications/).
+
+
+![Cassava Breeding Team](images/EquipeMandioca.jpeg)
 
 Greatest work achievements
 ===========================
