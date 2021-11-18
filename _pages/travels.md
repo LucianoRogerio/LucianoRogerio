@@ -6,7 +6,7 @@ last_updated: November 18, 2021
 author_profile: true
 ---
 
-#{% include base_path %}
+{% include base_path %}
 
 My travel records
 =================
