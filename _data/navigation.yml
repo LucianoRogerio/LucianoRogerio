@@ -13,7 +13,4 @@ main:
     url: /files/CVAcademicLuciano.pdf
 
   - title: "Travels"
-    url: /portfolio/
-
-  - title: "Travels2"
     url: /travels/

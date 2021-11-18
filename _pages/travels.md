@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Travels2"
+title: "Travels"
 permalink: /travels/
 last_updated: November 18, 2021
 author_profile: true
