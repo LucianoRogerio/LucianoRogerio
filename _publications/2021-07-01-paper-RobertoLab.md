@@ -12,4 +12,4 @@ The usefulness of genomic prediction (GP) for many animal and plant breeding pro
 
 [Download paper here](https://doi.org/10.3389/fpls.2021.658267)
 
-Recommended citation: Fritsche-Neto R, Galli G, Borges KLR, Costa-Neto G, Alves FC, Sabadin F, Lyra DH, Morais PPP, **de Andrade LRB**, Granato I and Crossa J (2021) Optimizing Genomic-Enabled Prediction in Small-Scale Maize Hybrid Breeding Programs: A Roadmap Review. Front. Plant Sci. 12:658267. doi: 10.3389/fpls.2021.658267.
+Recommended citation: Fritsche-Neto R, Galli G, Borges KLR, Costa-Neto G, Alves FC, Sabadin F, Lyra DH, Morais PPP, de Andrade LRB, Granato I and Crossa J (2021) Optimizing Genomic-Enabled Prediction in Small-Scale Maize Hybrid Breeding Programs: A Roadmap Review. Front. Plant Sci. 12:658267. doi: 10.3389/fpls.2021.658267.

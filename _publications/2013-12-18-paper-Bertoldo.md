@@ -15,4 +15,4 @@ performance, and the following seven adaptive traits of four commercial bean cul
 landraces.
 [Download paper here](https://www.scielo.br/pdf/sa/v71n2/a05v71n2.pdf)
 
-Recommended citation: 'Bertoldo JG, Coimbra JLM, Guidolin AF, **de Andrade LRB** and Nodari RO (2014) Agronomic potential of genebank landrace elite accessions for common bean. Sci. Agric. 71: 120–125.'
+Recommended citation: 'Bertoldo JG, Coimbra JLM, Guidolin AF, de Andrade LRB and Nodari RO (2014) Agronomic potential of genebank landrace elite accessions for common bean. Sci. Agric. 71: 120–125.'
