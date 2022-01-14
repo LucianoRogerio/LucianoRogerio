@@ -12,4 +12,4 @@ My travel records
 =================
 
 Locations were I already got the pleasure to visit
-<img src='/images/LucianoTravelWorldMap.jpeg' align="center">
+<img src='/images/LucianoTravelWorldMap2.jpeg' align="center">
