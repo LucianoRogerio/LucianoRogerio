@@ -1,9 +1,9 @@
 ---
-layout: archive
 title: "Travels"
+layout: archive
 permalink: /travels/
 last_updated: November 18, 2021
-author_profile: true
+author_profile: yes
 ---
 
 {% include base_path %}
@@ -13,5 +13,5 @@ My travel records
 
 Locations were I already got the pleasure to visit
 
-<img src='LucianoTravelWorldMap2.jpeg' align="center">
+<img src='../images/LucianoTravelWorldMap2.jpeg' align="center">
 
