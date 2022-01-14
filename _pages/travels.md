@@ -11,5 +11,5 @@ author_profile: true
 My travel records
 =================
 
-Locations were I already got the please to visit
+Locations were I already got the pleasure to visit
 <img src='/images/LucianoTravelWorldMap.jpeg' align="center">
