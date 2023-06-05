@@ -2,7 +2,7 @@
 title: "Travels"
 layout: archive
 permalink: /travels/
-last_updated: November 18, 2021
+last_updated: June 5, 2023
 author_profile: yes
 ---
 
