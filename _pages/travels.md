@@ -6,7 +6,6 @@ last_updated: June 5, 2023
 author_profile: yes
 ---
 
-{% include base_path %}
 
 My travel records
 =================
