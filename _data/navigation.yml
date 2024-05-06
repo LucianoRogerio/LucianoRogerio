@@ -9,8 +9,11 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/
 
-  - title: "CV"
+  - title: "CV - Academic"
     url: /files/CVAcademicLuciano.pdf
+
+  - title: "CV - Company"
+    url: /files/CVCompany.pdf
 
   - title: "Travels"
     url: /travels/
